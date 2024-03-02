@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: react
-        image: sapkotabraz/react-app:v1
+        image: sapkotabraz/react-app:v2
         ports:
         - containerPort: 80
